@@ -26,7 +26,7 @@ BaiduPCS-Go config set -appid 266719
 - [下载/运行 说明](#下载运行-说明)
   * [Windows](#windows)
   * [Linux / macOS](#linux--macos)
-  * [Android / iOS](#android / ios)
+  * [Android / iOS](#android--ios)
 - [命令列表及说明](#命令列表及说明)
   * [注意 ! ! !](#注意---)
   * [检测程序更新](#检测程序更新)
