@@ -26,7 +26,7 @@ BaiduPCS-Go config set -appid 266719
 - [下载/运行 说明](#下载运行-说明)
   * [Windows](#windows)
   * [Linux / macOS](#linux--macos)
-  * [Android / iOS](#android--ios)
+  * [Android / iOS](#abc)
 - [命令列表及说明](#命令列表及说明)
   * [注意 ! ! !](#注意---)
   * [检测程序更新](#检测程序更新)
@@ -128,7 +128,7 @@ cli交互模式下, 光标所在行的前缀应为 `BaiduPCS-Go >`, 如果登录
 
 具体使用方法请参见 [命令列表及说明](#命令列表及说明) 和 [初级使用教程](#初级使用教程).
 
-## Android@iOS
+## abc
 
 > Android / iOS 移动设备操作比较麻烦, 不建议在移动设备上使用本程序.
 
